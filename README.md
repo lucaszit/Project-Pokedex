@@ -48,7 +48,7 @@ Ainda será implementado melhorias como:
  <b>Lucas Pereira</b></sub>
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspereira42/)](https://www.linkedin.com/in/lucaspereira42/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas_Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspereira42/)](https://www.linkedin.com/in/lucaspereira42/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucas.pereira080@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.pereira080@gmail.com)](mailto:lucas.pereira080@gmail.com)
 
 
